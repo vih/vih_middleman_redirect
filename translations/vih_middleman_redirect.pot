@@ -1,0 +1,131 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  vih_middleman_redirect.features.field.inc: n/a
+#  vih_middleman_redirect.views_default.inc: n/a
+#  vih_middleman_redirect.features.inc: n/a
+#  vih_middleman_redirect.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-10-09 13:38+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: vih_middleman_redirect.features.field.inc:218 vih_middleman_redirect.views_default.inc:159
+msgid "Billede"
+msgstr ""
+
+#: vih_middleman_redirect.features.field.inc:219
+msgid "Skriv linket du vil videresende til. Hvis det er et internt link, så udelad den første skråstreg."
+msgstr ""
+
+#: vih_middleman_redirect.features.field.inc:220 vih_middleman_redirect.views_default.inc:161
+msgid "Videresend til"
+msgstr ""
+
+#: vih_middleman_redirect.features.inc:30
+msgid "Middleman redirect"
+msgstr ""
+
+#: vih_middleman_redirect.features.inc:32
+msgid "Used for redirection to certain pages. Can be used if you want a more catchy title and another picture to redirect to a particular page."
+msgstr ""
+
+#: vih_middleman_redirect.features.inc:34
+msgid "Tekst"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:144
+msgid "Master"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:145
+msgid "Sider til videresending"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:146
+msgid "mere"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:147
+msgid "Udfør"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:148
+msgid "Gendan"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:149
+msgid "Sortér efter"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:150
+msgid "Stigende"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:151
+msgid "Faldende"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:152
+msgid "Antal elementer"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:153
+msgid "- Alle -"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:154
+msgid "Forskydning"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:155
+msgid "« første"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:156
+msgid "‹ forrige"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:157
+msgid "næste ›"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:158
+msgid "sidste »"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:160
+msgid "Titel"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:162
+msgid "Content pane"
+msgstr ""
+
+#: vih_middleman_redirect.views_default.inc:163
+msgid "View panes"
+msgstr ""
+
+#: vih_middleman_redirect.info:0
+msgid "VIH Middleman Redirect"
+msgstr ""
+
+#: vih_middleman_redirect.info:0
+msgid "Used to have a short teaser which redirects to the actual content."
+msgstr ""
+
+#: vih_middleman_redirect.info:0
+msgid "VIH"
+msgstr ""
+
